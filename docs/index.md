@@ -4,12 +4,12 @@ share: true
 
 This is my Landung page. Hello Pferd!
 > [!AI]+ Artificial Homepage
-> Hello Pferd!
-> hi 
+> Hello Pferd!!!
+> hi !
 
 
 > [!FAQ]- Is this a Callout?
-> This is a Fallout!
+> This is a Fallout!!!
 
 
 
