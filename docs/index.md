@@ -12,6 +12,6 @@ This is my Landung page. Hello Pferd!
 
 
 
-- [[./Page one|Page one]]
-- [!faq]- this is a Fallout?
-- ![[./Page one|Page one]]
+- [[./Page one|Seite UNO]]
+- 
+- ![[./Page one|Seite UNO]]
